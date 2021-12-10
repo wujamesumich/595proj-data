@@ -1,0 +1,230 @@
+[
+    {
+        "id": "13000",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "YO, GUYS I PROMISE\n\nWORKER DEMOCRACY\n\nIS COMING RIGHT AFTER\n\nA FEW HUNDRED YEARS\n\nOF\n\nTOTALITARIAN STATE CAPITALISM\n\nWITH CHINESE CHARACTERISTICS"
+    },
+    {
+        "id": "13001",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Presenting Irrelevant Data (Red Herring)"
+        ],
+        "text": "Random: \"China just...\"\nTankies:\nBased!\nEnacting real change!\nUnbelievably based\nMore western propaganda!\nHow's the weather in Langley, CIA?"
+    },
+    {
+        "id": "13002",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Reductio ad hitlerum",
+            "Slogans"
+        ],
+        "text": "TYRANTS ARE NOT COMRADES\nTANKIES OUT!"
+    },
+    {
+        "id": "13003",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "All muslims are terrorists\n\nNOOOOO!!! THAT'S RACIST IMPERIALISM!!!\n\n(Tankie)\n\nAll muslims are terrorists\n\nOMG!!! BASED!!!\n\n(Tankie)"
+    },
+    {
+        "id": "13004",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling"
+        ],
+        "text": "Normal CIA conspiracy theories\n\n-Created and spread HIV\n-Killed almost 1000 people at Jonestown as part of Project MKUltra\n-Murdered the president in broad daylight and got away with it\n\nTankie CIA conspiracy theories\n\n-Produced a few documents and pictures showing Uyghurs in reeducation camps\n-Fund random Twitter anarchists\n-Make Chinese celebrities like girly stuff"
+    },
+    {
+        "id": "13005",
+        "labels": [
+            "Appeal to authority",
+            "Doubt"
+        ],
+        "text": "Me, a Hong Konger to Tankies who try to \"educate\" me on HK\n\nI know more than you."
+    },
+    {
+        "id": "13006",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "CHINA IS SOCIALIST!\n\nCORPORATIONS\n\nBILLIONAIRES\n\nWEALTH INEQUALITY\n\nPOLITICAL CORRUPTION\n\nFORCED LABOR\n\nPOWERFUL ELITE CONTROLLING THE MEANS OF PRODUCTION"
+    },
+    {
+        "id": "13007",
+        "labels": [
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Obfuscation, Intentional vagueness, Confusion"
+        ],
+        "text": "\"DEAR TANKIES. I SUPPORT VENEZUELA AND CHINA PAYS ME, SO WHY DO YOU HATE ME?\"\n\nRECEP ERDOGAN\nFOUNDER, TURNING POINT USA"
+    },
+    {
+        "id": "13008",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Yes, US imperialism is bad\n\nBut that doesn't mean you have to support oppressive governments that use the aesthetics of socialism to hide their atrocities"
+    },
+    {
+        "id": "13009",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "ME COMPLAINING ABOUT HOW MUCH AMERICAN CAPITALISM FUCKING SUCKS\n\"YEAH I AGREE WE SHOULD BE LIKE CHINA\"\n\nF**k"
+    },
+    {
+        "id": "13010",
+        "labels": [
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Reductio ad hitlerum",
+            "Smears"
+        ],
+        "text": "Tankies\nRight Wingers\nThinking that the \"Dictatorship of the Proletariat\" is an actual dictatorship"
+    },
+    {
+        "id": "13011",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "I think Denmark is a better society than North Korea\n\nWTF?!\nWORM!!\nKYS!!!\nIMPERIALIST!!!\nPOS!!\nRACIST!!!"
+    },
+    {
+        "id": "13012",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "Me after I realize that my opponent in the bootlicking contest is an twitter user who unironically calls themself dengist"
+    },
+    {
+        "id": "13013",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Whataboutism"
+        ],
+        "text": "Criticizing Israel is antisemitic\nFuck off I don't believe in that made up nonsense\n\nCriticizing China is Sinophobic\nSo true!!!"
+    },
+    {
+        "id": "13014",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Whataboutism"
+        ],
+        "text": "Tankies defending China\nConservatives defending Israel\n\"Any critiscism of this is countrys government is racist\""
+    },
+    {
+        "id": "13015",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "Anakin, Xi Jinping is evil!\n\nWell, from my point of view the Uyghur genocide is CIA propaganda!\n\nWell, then you are lost, you fucking racist!"
+    },
+    {
+        "id": "13016",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "NATIONALISM\n\nSOCIALISTS\nCast it into the fire. Destroy it!\n\nSTALINISTS\nNo."
+    },
+    {
+        "id": "13017",
+        "labels": [
+            "Exaggeration/Minimisation"
+        ],
+        "text": "White maoists when they call other white people settlers\n\nKING OF THE BLACK PEOPLE"
+    },
+    {
+        "id": "13018",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "WHEN CHINESE TANKIES USING A VPN AND SEVEN PROXIES JUST TO ACCESS THE INTERNET ARGUE THEY'RE JUST AS FREE AS ANYONE ELSE"
+    },
+    {
+        "id": "13019",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "STALIN PERSONALLY THANKING TANKIES\n\nON TWITTER DOT COM FOR DEFENDING HIS REGIME"
+    },
+    {
+        "id": "13020",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "China is a neocolonial power that uses debt traps and predatory lending to undermine African nations' sovereignty\n\nTankies\nIf those kids knew anything about foreign policy they'd be very upset"
+    },
+    {
+        "id": "13021",
+        "labels": [
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "The US committed genocide\n\nDa!\n\nThe Nazis committed genocide\n\nDa!The USSR and China committed genocide\n\nYou can't just go around calling everything a genocide, that was just a normal famine you see"
+    },
+    {
+        "id": "13022",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Corporate America\nMy company has nearly driven an entire species to the point of extinction, but respect us anyway.\nFUCK OFF! You ecocidal piece of bourgeois shit!\n\nThe red guards - the creation of which I encouraged - killed so many Pekingese dogs that the breed nearly went extinct, but please uphold Mao Zedong Thought\nSo based!"
+    },
+    {
+        "id": "13023",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Repetition"
+        ],
+        "text": "Maybe we shouldn't glorify dictators...\n\nMaybe we shouldn't glorify dictators.....\nwHeRe is your Revolution AnArKiDDie\n\nwHeRe is YOUR Revolution AnArKiDDie\n\nwHere is your Revolution AnArKiDDie"
+    },
+    {
+        "id": "13024",
+        "labels": [
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Reductio ad hitlerum"
+        ],
+        "text": "Tankies and Wehraboos arguing on which fascist totalitarian dictatorship is better"
+    }
+]

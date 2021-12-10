@@ -1,0 +1,438 @@
+[
+    {
+        "id": "12000",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Dialectics? Historical materialism? Surplus value? Superstructure?\n\nNah bro imagine you have two cows"
+    },
+    {
+        "id": "12001",
+        "labels": [
+            "Bandwagon",
+            "Flag-waving",
+            "Glittering generalities (Virtue)"
+        ],
+        "text": "VETERAN'S DAY\nHONORING ALL WHO SERVED ...\n\nTHE GLOBAL WORKING CLASS"
+    },
+    {
+        "id": "12002",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Whataboutism"
+        ],
+        "text": "France closing mosques and deporting Muslims\ncounter terrorism\n\nChina building schools and mosques in Xinjiang\nethnic genocide"
+    },
+    {
+        "id": "12003",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "Israel murders Palestinian children on live TV\ni sleep\n\nChina sends Uyghurs to school\nreal shit"
+    },
+    {
+        "id": "12004",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "picture of people walking on a street\n\npicture of people walking on a street(Pyongyang, DPRK)\num yikernos this is so creepy and literally staged, another 100 gorillion victims of communism!!11"
+    },
+    {
+        "id": "12005",
+        "labels": [
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "100 years later, Bolshevism is back. And we should be worried.\n\nGOOD."
+    },
+    {
+        "id": "12006",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Jordan Peterson cramming the night before a debate\n\nAssassin's Creed: Syndicate - All Karl Marx Scenes\n108,442 views"
+    },
+    {
+        "id": "12007",
+        "labels": [],
+        "text": "I do not recognize Taiwan as a country\n\nSure whatever I guess\n\nI do not recognize Taiwan as a country"
+    },
+    {
+        "id": "12008",
+        "labels": [],
+        "text": "Europeans lecturing Americans about racism\n\nEuropeans talking about Romani"
+    },
+    {
+        "id": "12009",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "Food, China\nFuck off china, stop eating dogs and bats\n\nLiterally the same food, japan\nOMG I LOVE JAPANESE FOOD!1!!"
+    },
+    {
+        "id": "12010",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "LIBERALS BE LIKE\nCANT STAND THEOCRACIES\n\n10 MINUTES LATER\nME AND THE BESTIE"
+    },
+    {
+        "id": "12011",
+        "labels": [
+            "Appeal to authority",
+            "Exaggeration/Minimisation",
+            "Flag-waving"
+        ],
+        "text": "Here, I am not a Negro but a human being for the first time in my life... I walk in full human dignity.\n- Paul Robeson, when describing his visit to the USSR in 1934"
+    },
+    {
+        "id": "12012",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Repetition",
+            "Smears"
+        ],
+        "text": "In Syria, militias armed by the Pentagon fight those armed by the CIA\n\nWhen you fund a terrorist group to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a"
+    },
+    {
+        "id": "12013",
+        "labels": [
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "AVENGERS\n\nPOLICE EMS\n\nACTUAL SUPERHEROES,\nshut the fuck up cracker"
+    },
+    {
+        "id": "12014",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Reductio ad hitlerum",
+            "Smears"
+        ],
+        "text": "I wanna bring back a slave based society\ngross\n\nI wanna bring back a slave based society\nwoah wholesome monk just like the last airbender!!!"
+    },
+    {
+        "id": "12015",
+        "labels": [
+            "Presenting Irrelevant Data (Red Herring)",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "Random liberal: How much is China paying you to spread propaganda?\nMe:\n\nWait, you guys are getting paid?"
+    },
+    {
+        "id": "12016",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling"
+        ],
+        "text": "An american shithead on Reddit:\nSupporting communism and hating capitalism from Your iPhone in your warm house is Easy.\n\nME, FROM MY CAPITALIST HEAVEN HERE IN SOUTH AMERICA:"
+    },
+    {
+        "id": "12017",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Whataboutism"
+        ],
+        "text": "China is a totalitarian state, America is the freest country in the world\nNow get into the fucking van"
+    },
+    {
+        "id": "12018",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Bandwagon",
+            "Smears"
+        ],
+        "text": "21 years ago, on this day, the occupation forces shot dead the Palestinian child, Faris Odeh (15). Faris Odeh will always stay in our hearts and will always be remembered"
+    },
+    {
+        "id": "12019",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Cops when dealing with left wing protestors\nAttention African American 5 year old girl, please step away from the statue unless you want your other leg blown off\n\nCops when dealing with right wingers\nSTOP\nPls guys stop you're making a mess"
+    },
+    {
+        "id": "12020",
+        "labels": [
+            "Name calling/Labeling",
+            "Reductio ad hitlerum",
+            "Smears"
+        ],
+        "text": "Nazi-fascism\n\nUSSR\nCast it into the fire. Destroy it!\n\nUSA\nNo."
+    },
+    {
+        "id": "12021",
+        "labels": [
+            "Doubt",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "\"Last I checked, China is a lying totalitarian dictatorship\"\nWhere they checked:\nDr. Adrian Zenz is an advisor to the Inter-Parliamentary Alliance on China. He is a Senior Fellow at the Victims of Communism Memorial Foundation.\nBBC NEWS\nDepartment Of State"
+    },
+    {
+        "id": "12022",
+        "labels": [
+            "Exaggeration/Minimisation"
+        ],
+        "text": "The two-party system of government explained for dummies\n\nLEFT Twix\nRIGHT Twix"
+    },
+    {
+        "id": "12023",
+        "labels": [
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "When you have zero corruption because you call it \"lobbying\""
+    },
+    {
+        "id": "12024",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling"
+        ],
+        "text": "TALKING ABOUT MARXISM WITH MARXISTS\nvs.\nTALKING ABOUT MARXISM WITH ANARCHISTS\nno honey, workers having state power is not fascism"
+    },
+    {
+        "id": "12025",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation"
+        ],
+        "text": "liberals\nwe canceled Dr Suess\nand you canceled cartoon bunny's boobs\n\nsocialists\nWe canceled the IMF\nwe canceled the BBC"
+    },
+    {
+        "id": "12026",
+        "labels": [
+            "Causal Oversimplification",
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "YOU ONLY HATE COMMUNISM DUE TO CIA PROPAGANDA"
+    },
+    {
+        "id": "12027",
+        "labels": [
+            "Appeal to authority",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "As someone from Eastern Europe, I hate how people romanticise living in Eastern Europe.\nI agree, they don't even live there and act like they know what they're talking about. I love Eastern Europe, pity how communism ruined it.\nCapitalism ruined Eastern Europe.\nNooo!!!! you don't know what you're talking abooout!!!"
+    },
+    {
+        "id": "12028",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling"
+        ],
+        "text": "am I an arrogant dogmatic western chauvinist?\nno, it is the millions of communists in the developing world who are not doing Marxism right and need my criticism and direction"
+    },
+    {
+        "id": "12029",
+        "labels": [
+            "Presenting Irrelevant Data (Red Herring)",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "The CCP censors you on reddit?\nDamn, I wish it worked Shut the fuck up"
+    },
+    {
+        "id": "12030",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Flag-waving",
+            "Glittering generalities (Virtue)"
+        ],
+        "text": "Resistance movements during WWII\nWait, they're all communists?\nAlways have been"
+    },
+    {
+        "id": "12031",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "NO I DON'T GET MY INFORMATION FROM THE CIA YOU STUPID TANKIE\n\nIT'S ACTUALLY FROM A VARIETY OF NGOS FUNDED BY THE NATIONAL ENOWMENT FOR DEMOCRACY"
+    },
+    {
+        "id": "12032",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "C.I.A. Says It Has Found No Link Between Itself and Crack Trade\nYOUR HONOUR\n\nI HAVE INVESTIGATED AND FOUND MYSELF INNOCENT"
+    },
+    {
+        "id": "12033",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "the ONION 'The Onion' Calls On Israel To Bomb Our Offices In Case Any Hamas Agents Hiding Out There"
+    },
+    {
+        "id": "12034",
+        "labels": [
+            "Smears"
+        ],
+        "text": "Europeans after the price of cotton rises to $2.00 per pound because they boycotted an entire region to stop a genocide they made up"
+    },
+    {
+        "id": "12035",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "virgin ubisoft Marx\n\"Killing people and destroying property solves nothing. Democracy is the only road to socialism.\"\n\nchad actual Marx\n\"We have no compassion and we ask no compassion from you. When our turn comes, we shall not make excuses for the terror."
+    },
+    {
+        "id": "12036",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Liberals when you ask them for evidence of an accusation and they post an article making the same baseless accusation without any evidence"
+    },
+    {
+        "id": "12037",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Reductio ad hitlerum",
+            "Smears"
+        ],
+        "text": "Want to hear something racist\nLiberals\n\nIts about Chinese people\nLiberals"
+    },
+    {
+        "id": "12038",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Babe, it's 8 pm, time for you to learn why Russia going from a feudal monarchy to a modern industrial superpower is actually a failure of communism\n\nYes, education system"
+    },
+    {
+        "id": "12039",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "Q: HOW DO YOU ADDRESS A SERVICEMAN WHO USED TO BE A SERVICEWOMAN?\nFucking die imperialist scum"
+    },
+    {
+        "id": "12040",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Doubt",
+            "Name calling/Labeling",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "China is committing genocide in Xinjiang.\n\nYou'd never lie to justify a war, right?\n\nGulf of Tonin Incident\nDouma chemical attack\nKorean War\nIraq and weapons of mass destruction\nNayirah testimony\n\nRight?"
+    },
+    {
+        "id": "12041",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "US Army Base Poisoning Drinking Water Of Half a Million Japanese\nit's just a small oopsie, they'll get used to it\n\nBiden administration sanctions Chinese officials for 'genocide' against Uyghurs days after diplomatic spat in Alaska\nThose stupid human rights abusers...\nFREE EAST TURKESTAN! STOP CHINA'S GENOCIDE!"
+    },
+    {
+        "id": "12042",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "I would much much rather live in a world where we see a 4 degree rise in temperature than live in a world where China is a global hegemon\n\nThe American people are not intellectual, to put it mildly."
+    },
+    {
+        "id": "12043",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "Fuck the State?\nOH ABSOLUTELY\nbut also\nBelieve the State\nImao I stand for absolutely nothing"
+    },
+    {
+        "id": "12044",
+        "labels": [
+            "Appeal to authority",
+            "Bandwagon",
+            "Black-and-white Fallacy/Dictatorship",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "\ufeffYou don't need to read theory from a hundred years ago in order to be a good comrade. Anyway, here's my hot takes on class collaboration and taking part in bourgeois elections in order to push the liberal leaders left.\n\nWe literally explained why that does not work.\n\nREAD THEORY"
+    },
+    {
+        "id": "12045",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Slogans",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "Finish your food there are kids starving in America."
+    },
+    {
+        "id": "12046",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Exaggeration/Minimisation",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Slogans",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ],
+        "text": "FUCK SOCIAL CREDIT SCORE\n\nWHAT IS YOUR FBI WATCHLIST RANK"
+    },
+    {
+        "id": "12047",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "FUCK CHINA\n\nTHERE I SAID IT. THIS WILL PROBABLY BE DELETED. EDIT: THANKS FOR THE GOLD"
+    },
+    {
+        "id": "12048",
+        "labels": [
+            "Presenting Irrelevant Data (Red Herring)",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "MFS BE LIKE \"FREE CUBA\"\n\nWDYM? CUBA WAS ALREADY FREED IN 1959."
+    },
+    {
+        "id": "12049",
+        "labels": [
+            "Bandwagon",
+            "Flag-waving",
+            "Glittering generalities (Virtue)",
+            "Slogans"
+        ],
+        "text": "The first proletarian revolution made it no further than Paris\nThe second wave of revolutions Swept across half the world\nA third wave is coming\nOur victory is certain\nLet us win our freedom\nonce and for all"
+    }
+]
